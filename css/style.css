@@ -1,0 +1,151 @@
+
+* {
+	font-family: 'Roboto', sans-serif;
+
+}
+h2 {
+	color:black;
+}
+.banner {
+	width:80%;
+}
+
+.icono {
+	position:absolute;
+	width:8%;
+	bottom:25%;
+	left:30%;
+}
+.icon-bookmark {
+	font-size:15px
+}
+.icon-video-camera {
+	font-size:15px;
+	margin-left:1px;
+}
+.movieth {
+	margin-top:10%
+}
+.search {
+	margin-top:3%;
+}
+.menubig {
+	color:#BEBCBC;
+	height:100%;
+}
+.bighero {
+	margin-top:15%;
+	font-size:340%;
+	color:#BBB8B8;
+	font-weight:bold;
+}
+.textobig {
+	padding-top:10%;
+	font-size:15px;
+	text-align:;
+}
+.video {
+	-webkit-box-shadow: 0 10px 6px -6px #777;
+   -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+}
+
+.cartelera{
+	width:100%;
+	position:relative;      
+    -webkit-box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;
+    -moz-box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;
+    box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;
+}
+.fotos {
+	margin:0 auto;
+	background-color:#E0B10F;
+	padding:3%;
+}
+.news {
+	padding:4%;
+}
+.discount {
+	font-size:12px;
+	margin-top:5%;
+	color:#DA8705;
+}
+.more {
+	color:#DA8705;
+}
+.ticket {
+	margin-top:7%;
+	background-color:#DA8705;
+	color:white;
+	border-radius:3px;
+	width:70px;
+	height:60px;
+	padding:8px;
+	text-align:center;
+}
+.botonverde {
+	border:2px solid #177305;
+	border-radius:5%;
+	width:30px;
+	height:30px;
+	padding:6px;
+	color:#177305;
+	font-weight:bold;
+}
+.btnamarillo {
+	background-color:#EAA207;
+	color:white;
+	font-size:13px;
+	height:45px;
+	width:130px;
+	border-radius:3px;
+	padding:8px;
+	margin-top:10px;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+
+}
+.btncafe {
+	background-color:#B47906;
+	color:white;
+	font-size:13px;
+	height:45px;
+	width:130px;
+	border-radius:3px;
+	margin-top:10px;
+	padding:8px;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+}
+.info {
+	margin-top:5%;
+	color:#7B7A7A;
+}
+
+.peliculas {
+	margin-top:10%;
+	padding:3%;
+	-webkit-box-shadow: 0 10px 6px -6px #777;
+   -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+}
+.news {
+	font-size:20px;
+	color:#817A7A;
+}
+.negro {
+	color:#0D0303;
+	font-size:12px;
+	font-weight:bold;
+}
+
+footer {
+	margin-top:2%;
+	background-color:#DBD5D5;
+	color:#989595;
+	padding-top:5%;
+	padding-bottom:5%;
+	font-size:12px;
+}
